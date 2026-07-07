@@ -1,6 +1,8 @@
 # urdu-ocr-codesaviours-si26-Hania-
 **Urdu OCR Project | Code Saviours SI-26 | Hania Emaan**
-Question/Answers
+
+**Question/Answers**
+
 **1.What is OCR (Optical Character Recognition)?**
 
 OCR is a technology that allows computers to read text from images, scanned documents, or photographs and convert it into digital, editable text. It works by analyzing the shapes and patterns of characters in an image and matching them to known letters or symbols. This is what allows you to scan a printed page and turn it into a Word document, or search for text within a scanned PDF.
