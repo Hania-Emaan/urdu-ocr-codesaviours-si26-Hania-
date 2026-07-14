@@ -44,6 +44,6 @@ One situation is digitizing old Urdu newspapers, books, and historical governmen
 - Tesseract: دہ جیائے ہ- لت خاموق سے!سے تا ۸
 - Issue: "وہ" misread as "دہ", "خاموشی" corrupted to "خاموق", ending garbled into stray symbols and a number
 
-  **Summary**
+## Summary
 
 **Tesseract fails on Urdu because** it struggles to correctly segment and recognize Urdu's cursive, context-dependent letterforms, where each letter changes shape depending on its position within a word. Across all 5 test images, Tesseract consistently merged separate words together, substituted visually similar but incorrect characters, and in several cases produced text that barely resembled the original sentence at all. Even after preprocessing (grayscale, resizing, denoising, and adaptive binarization), Tesseract's accuracy remained poor, showing that the core issue lies in its underlying Urdu language model rather than image quality. This confirms that general-purpose OCR engines like Tesseract — built primarily for Latin scripts — are not reliable for Urdu without a dedicated, custom-trained model, which is exactly the problem this project sets out to solve.
