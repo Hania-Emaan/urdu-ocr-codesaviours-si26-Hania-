@@ -1,6 +1,6 @@
 # urdu-ocr-codesaviours-si26-Hania-
 **Urdu OCR Project | Code Saviours SI-26 | Hania Emaan**
-#Week 1
+# Week 1
 
 **Question/Answers**
 
@@ -16,7 +16,7 @@ Urdu is written in a cursive script where letters change shape depending on thei
 
 One situation is digitizing old Urdu newspapers, books, and historical government records so they can be searched, stored, and preserved digitally instead of deteriorating physically. Another situation is helping visually impaired Urdu readers by converting printed Urdu text into speech using text-to-speech systems, giving them access to information they otherwise couldn't read. Urdu OCR could also help automate data entry for Urdu-language forms, such as ID cards or handwritten applications, in government and banking systems across Pakistan.
 
-#Week 2
+# Week 2
 ## Why We Need a Better Model
 
 **Test 1**
